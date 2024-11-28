@@ -1,6 +1,6 @@
 # Frontend Mentor - Room homepage 
 
-![Design preview for the Room homepage coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Room homepage coding challenge](./public/design/desktop-preview.jpg)
 
 ## Table of contents
 
@@ -23,8 +23,8 @@ The challenge is to build out this e-commerce homepage with stylish and modern d
 
 ### Screenshot
 
-![Deskstop](./design/desktop-preview.jpg)
-![Mobile](./design/mobile-preview.jpg)
+![Deskstop](./public/design/desktop-design-slide-1.jpg)
+![Mobile](./public/design/mobile-design.jpg)
 
 
 ### Links
