@@ -29,8 +29,8 @@ The challenge is to build out this e-commerce homepage with stylish and modern d
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL ]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/responsive-e-commerce-room-homepage-RdSoFP0lEq))
+- Live Site URL: [live site URL ](https://room-home-page-orcin.vercel.app)
 
 ## My process
 
